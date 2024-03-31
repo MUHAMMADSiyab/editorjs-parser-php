@@ -1,0 +1,24 @@
+{
+  "name": "siyabdev/editorjs-parser-php",
+  "description": "PHP parser for editorjs library",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Siyabdev\\EditorjsParserPhp\\": "src/",
+      "Siyabdev\\EditorjsParserPhp\\Exceptions\\": "src/Exceptions/"
+    }
+  },
+  "autoload-dev": {
+    "Siyabdev\\Tests\\": "tests/"
+  },
+  "authors": [
+    {
+      "name": "Muhammad Siyab",
+      "email": "siyab.dev@gmail.com"
+    }
+  ],
+  "require-dev": {
+    "phpunit/phpunit": "*"
+  }
+}
