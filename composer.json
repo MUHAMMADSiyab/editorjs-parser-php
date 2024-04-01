@@ -1,6 +1,12 @@
 {
   "name": "muhammadsiyab/editorjs-parser-php",
   "description": "PHP parser for editorjs library",
+  "keywords": [
+    "editor.js",
+    "html",
+    "php",
+    "parser"
+  ],
   "type": "library",
   "license": "MIT",
   "autoload": {
