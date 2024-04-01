@@ -1,6 +1,6 @@
 <?php
 
-namespace Siyabdev\EditorjsParserPhp\Exceptions;
+namespace MuhammadSiyab\EditorjsParserPhp\Exceptions;
 
 use Exception;
 use Throwable;

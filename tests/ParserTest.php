@@ -1,14 +1,14 @@
 <?php
 
 use PHPUnit\Framework\TestCase;
-use Siyabdev\EditorjsParserPhp\BlockQuoteParser;
-use Siyabdev\EditorjsParserPhp\CodeParser;
-use Siyabdev\EditorjsParserPhp\EmbedParser;
-use Siyabdev\EditorjsParserPhp\HeadingParser;
-use Siyabdev\EditorjsParserPhp\ImageParser;
-use Siyabdev\EditorjsParserPhp\ListParser;
-use Siyabdev\EditorjsParserPhp\ParagraphParser;
-use Siyabdev\EditorjsParserPhp\TableParser;
+use MuhammadSiyab\EditorjsParserPhp\BlockQuoteParser;
+use MuhammadSiyab\EditorjsParserPhp\CodeParser;
+use MuhammadSiyab\EditorjsParserPhp\EmbedParser;
+use MuhammadSiyab\EditorjsParserPhp\HeadingParser;
+use MuhammadSiyab\EditorjsParserPhp\ImageParser;
+use MuhammadSiyab\EditorjsParserPhp\ListParser;
+use MuhammadSiyab\EditorjsParserPhp\ParagraphParser;
+use MuhammadSiyab\EditorjsParserPhp\TableParser;
 
 /**
  @covers Parser

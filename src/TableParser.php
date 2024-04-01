@@ -1,9 +1,9 @@
 <?php
 
-namespace Siyabdev\EditorjsParserPhp;
+namespace MuhammadSiyab\EditorjsParserPhp;
 
-use Siyabdev\EditorjsParserPhp\Exceptions\PropertyNotFoundException;
-use Siyabdev\EditorjsParserPhp\Exceptions\TableMismatchedColumnsException;
+use MuhammadSiyab\EditorjsParserPhp\Exceptions\PropertyNotFoundException;
+use MuhammadSiyab\EditorjsParserPhp\Exceptions\TableMismatchedColumnsException;
 
 class TableParser implements ShouldCheckForPropertyExistence
 {

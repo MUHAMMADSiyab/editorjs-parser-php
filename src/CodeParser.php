@@ -1,8 +1,8 @@
 <?php
 
-namespace Siyabdev\EditorjsParserPhp;
+namespace MuhammadSiyab\EditorjsParserPhp;
 
-use Siyabdev\EditorjsParserPhp\Exceptions\PropertyNotFoundException;
+use MuhammadSiyab\EditorjsParserPhp\Exceptions\PropertyNotFoundException;
 
 class CodeParser implements ShouldCheckForPropertyExistence
 {
