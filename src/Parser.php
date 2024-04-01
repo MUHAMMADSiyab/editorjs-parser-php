@@ -1,11 +1,9 @@
 <?php
 
-namespace Siyabdev\EditorjsParserPhp;
+namespace MuhammadSiyab\EditorjsParserPhp;
 
-use Exception;
-use JsonException;
-use Siyabdev\EditorjsParserPhp\Exceptions\BlocksNotFoundException;
-use Siyabdev\EditorjsParserPhp\Exceptions\PropertyNotFoundException;
+use MuhammadSiyab\EditorjsParserPhp\Exceptions\BlocksNotFoundException;
+use MuhammadSiyab\EditorjsParserPhp\Exceptions\PropertyNotFoundException;
 
 class Parser
 {

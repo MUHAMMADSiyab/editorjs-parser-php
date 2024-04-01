@@ -1,6 +1,6 @@
 <?php
 
-namespace Siyabdev\EditorjsParserPhp;
+namespace MuhammadSiyab\EditorjsParserPhp;
 
 interface ShouldCheckForPropertyExistence
 {

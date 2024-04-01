@@ -1,9 +1,9 @@
 <?php
 
-namespace Siyabdev\EditorjsParserPhp;
+namespace MuhammadSiyab\EditorjsParserPhp;
 
-use Siyabdev\EditorjsParserPhp\Exceptions\ListItemsArrayException;
-use Siyabdev\EditorjsParserPhp\Exceptions\PropertyNotFoundException;
+use MuhammadSiyab\EditorjsParserPhp\Exceptions\ListItemsArrayException;
+use MuhammadSiyab\EditorjsParserPhp\Exceptions\PropertyNotFoundException;
 
 class ListParser implements ShouldCheckForPropertyExistence
 {
