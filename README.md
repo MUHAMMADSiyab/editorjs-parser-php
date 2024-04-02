@@ -19,7 +19,7 @@ This package allows you to easily parse [Editor.js](https://editorjs.io/) JSON o
 
 ## Requirements
 
-PHP `^7.4`
+PHP `>=7.4`
 
 ## Installation
 
